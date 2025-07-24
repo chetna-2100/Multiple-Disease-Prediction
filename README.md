@@ -1,0 +1,1 @@
+A machine learning-based web application built using Streamlit to predict the likelihood of multiple diseases such as diabetes, heart disease, and others. The system integrates various trained models and a simple UI to make real-time predictions based on user input.
